@@ -52,7 +52,7 @@ Hay una [primera edición](https://r4ds.had.co.nz/){target="_blank"} del libro q
 
 #### Otras propuestas para aprender R
 
-- [¿Nuevo en R? Empieza aquí](https://www.bigbookofr.com/new-to-r-start-here)
+- [¿Nuevo en R? Empieza aquí](https://www.bigbookofr.com/new-to-r-start-here){target="_blank"}
 
 
 -   [How to get started with Data Science using R](https://www.r-bloggers.com/how-to-get-started-with-data-science-using-r/){target="_blank"}
