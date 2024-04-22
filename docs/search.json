@@ -1,10 +1,38 @@
 [
   {
-    "objectID": "slides/zz_sobre-mi.html#sobre-mi",
-    "href": "slides/zz_sobre-mi.html#sobre-mi",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Bienvenidos al curso!!!",
+    "section": "",
+    "text": "Bienvenidos a la web del curso “Introducción a R” del SFPIE, Universitat de València, edición de 2024.\nEl curso tiene 30 horas distribuidas en 8 sesiones y 2 profesores: Vicente Coll y yo mismo, pedro.j.perez@uv.es. Cada uno impartirá 4 sesiones.\n\nEsta web tiene el propósito de facilitar el acceso a los materiales que usaremos durante las 4 sesiones a mi cargo:\n\nLos detalles sobre el curso (horario, aula, …) están en Info.\nLos materiales están en Materiales.\nPuedes encontrar recursos adicionales para aprender R en Recursos\n\n\nNos vemos pronto en el Aula 0.2 del SFPIE (Centro de Formación y Calidad Manuel Sanchis Guarner, Campus de Tarongers)"
+  },
+  {
+    "objectID": "info.html",
+    "href": "info.html",
     "title": "Introducción a R (SFPIE, 2024)",
-    "section": "Sobre mi",
-    "text": "Sobre mi\n\n\nProfesor en la UV: Econometría e Intro a la Ciencia de datos con R\nEntusiasta de R\n\n\n\nNo soy “bloguero”, más bien soy creador y liquidador de blogs:\n\n2015, R & flowers , con Jekyll\n2018, R & flowers V, con Hugo y blogdown\n2020, R & flowers (o casi), con radix\n2021, pedro.j.perez blog’s, con Distill\n2022, R & flowers, con Quarto\n\n\n\n\n\nSlides hechas con Quarto para las XII Jornadas de Usuarios de R"
+    "section": "",
+    "text": "Forma parte de la oferta del SFPIE de la Universitat de València. La ficha oficial del curso está aquí.\nEn el curso usaremos 3 programas. Principalmente usaremos R a través de RStudio. En una de las últimas sesiones del curso también usaremos Quarto.\nSe recomienda tener instaladas versiones recientes de los 3 programas. Tienes instrucciones de instalación más abajo\nEl aula del curso no tiene ordenadores, así que es necesario acudir al curso con tu propio ordenador. Además, es conveniente que traigas un ratón: piensa que buena parte de los errores que cometeremos se deberán a la precisión en copy-paste. Evitémoslo!!\nLos materiales que usaremos están en Materiales."
+  },
+  {
+    "objectID": "info.html#información-sobre-el-curso",
+    "href": "info.html#información-sobre-el-curso",
+    "title": "Introducción a R (SFPIE, 2024)",
+    "section": "",
+    "text": "Forma parte de la oferta del SFPIE de la Universitat de València. La ficha oficial del curso está aquí.\nEn el curso usaremos 3 programas. Principalmente usaremos R a través de RStudio. En una de las últimas sesiones del curso también usaremos Quarto.\nSe recomienda tener instaladas versiones recientes de los 3 programas. Tienes instrucciones de instalación más abajo\nEl aula del curso no tiene ordenadores, así que es necesario acudir al curso con tu propio ordenador. Además, es conveniente que traigas un ratón: piensa que buena parte de los errores que cometeremos se deberán a la precisión en copy-paste. Evitémoslo!!\nLos materiales que usaremos están en Materiales."
+  },
+  {
+    "objectID": "info.html#horario-y-aula",
+    "href": "info.html#horario-y-aula",
+    "title": "Introducción a R (SFPIE, 2024)",
+    "section": "Horario y aula",
+    "text": "Horario y aula\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDía\nHora\nLugar\nProfesor\n\n\n\n22 de abril (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n23 de abril (martes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n24 de abril (miércoles)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n29 de abril (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n30 de abril (martes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n6 de mayo (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n7 de mayo (martes)\n16:00 a 19:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n8 de mayo (miércoles)\n16:00 a 19:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n\n\nLas clases se desarrollarán en el Campus de Tarongers, concretamente en el aula 0.2 del SFPIE (Servicio de Formación Permanente e Innovación Educativa) de la Universitat de València.\nEl SFPIE está en el edificio “Centro de Formación y Calidad Manuel Sanchis Guarner” que está en la C/ Serpis, 29, 46022 València. Tienes un mapa de Google aquí, y aquí la web del centro."
+  },
+  {
+    "objectID": "info.html#programas-instalación",
+    "href": "info.html#programas-instalación",
+    "title": "Introducción a R (SFPIE, 2024)",
+    "section": "Programas (instalación)",
+    "text": "Programas (instalación)\n\n\n\n\n\n\nInstalación de R, RStudio y Quarto\n\n\n\n\n\n\nEn el curso usaremos 3 programas: R, RStudio y Quarto, así que tenemos que instalarlos\n\nHas de instalar los programas en este orden:\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\nQuarto: https://quarto.org/docs/download/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuadas para tu sistema operativo\n\n\n\n\n\n\n\n\n\n\n\nInstalación de paquetes\n\n\n\n\n\n\nEn el curso también usaremos algunos paquetes de R, así que hay que instalarlos\nLos paquetes se han de instalar una vez hayas instalado los 3 programas (R, RStudio y Quarto)\nLos paquetes no son necesarios para el primer día del curso, así que los instalaremos en clase durante la segunda sesión del curso\n\n\n\n\n\n\n\n\n\n\n¿Cómo instalar los paquetes?\n\n\n\n\n\n\nRecuerda que Los paquetes no son necesarios para el primer día del curso, así que los instalaremos en clase durante la segunda sesión\n\nAlgunos paquetes se han de compilar por lo que hay que tener las herramientas necesarias, así que:\n\nSi usas Windows instalaremos Rtools. Aquí puedes descargarte el instalador adecuado\nSi tienes un Mac, tendrás que instalar the Xcode Command Line Tools. Lo normal es que lo tengas ya instalado, si no fuese el caso, aquí te explican como hacerlo. Además, como nos cuentan aquí, si tienes un Mac, es conveniente instalar XQuartz, para ello sólo tienes que buscar el instalador en https://www.xquartz.org/\n\n\nFinalmente, para instalar los paquetes que usaremos durante el curso tendremos que ejecutar las siguientes instrucciones:\n\n\nCódigo para instalar los paquetes#- instalación de paquetes ---------------------------------\n\ninstall.packages(\"pak\")\n\nmys_pkgs &lt;- c(\"tidyverse\", \"curl\", \"eurostat\", \"here\", \"palmerpenguins\", \"quantmod\", \"rio\", \"gt\", \"DT\", \"gapminder\", \"markdown\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"usethis\", \"janitor\", \"ggthemes\", \"gganimate\", \"perezp44/pjpv.curso.R.2022\", \"sjPlot\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"sf\", \"rcartocolor\", \"rmapshaper\", \"gtExtras\", \"patchwork\", \"magick\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"kableExtra\", \"modelsummary\", \"rpivotTable\", \"widyr\", \"irlba\", \"tmap\")\npak::pkg_install(mys_pkgs)\n\nmys_pkgs &lt;- c(\"GGally\", \"ggtext\", \"Financial-Times/ftplottools\", \"maps\")\npak::pkg_install(mys_pkgs)  \n\nmys_pkgs &lt;- c(\"summarytools\", \"glin/reactable\", \"agstn/dataxray\", \"naniar\")\npak::pkg_install(mys_pkgs)  \n\nmys_pkgs &lt;- c(\"DataExplorer\", \"corrr\", \"inspectdf\", \"explore\", \"stargazer\", \"apaTables\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"easystats\", \"plotly\")\npak::pkg_install(mys_pkgs)\n\nmys_pkgs &lt;- c(\"OECD\", \"rbioapi\")\npak::pkg_install(mys_pkgs)\n\nmys_pkgs &lt;- c(\"openxlsx\", \"xlsx\")\npak::pkg_install(mys_pkgs) \n\n#- finalmente, si te instalas todos los paquetes, se instalarán 284 pkg's aprox. (q ocupan 842 MB aprox.)\npkgs &lt;- pak::pkg_list()\n\n#- normalmente tendrás 2 librerías\n.libPaths()\n#- en la primera tienes los pkgs de \"R-base\": \"C:/Program Files/R/R-4.3.0/library\"   \n#- en la segunda tienes los paquetes q se instala un usuario:  \"C:/Users/Usuario/AppData/Local/R/win-library/4.3\" \n\n\n#- más cosas ---------------------------------------\n# usethis::edit_rstudio_prefs()\n# usethis::use_blank_slate() \n\n# quarto install tool tinytext\n# quarto install tinytex --update-path\n# quarto install tool chromium"
   },
   {
     "objectID": "materiales.html",
@@ -25,7 +53,7 @@
     "href": "materiales.html#rproject-a-descargar",
     "title": "Materiales para el curso",
     "section": "Rproject (a descargar)",
-    "text": "Rproject (a descargar)\n\nEl Rproject que usaremos en mis 4 sesiones, pedro.j.perez@uv.es, podrás descargarlo en breve aquí. Aún no está disponible, pero pronto lo estará.\n(Al pinchar, se te descargará una archivo comprimido llamado Rproject_pjp.zip. Descomprime el archivo y así tendrás en tu ordenador el Rproject con los materiales (scripts, ejemplos, datos …) que utilizaremos en clase.)"
+    "text": "Rproject (a descargar)\n\nEl Rproject que usaremos en mis 4 sesiones, pedro.j.perez@uv.es, puedes descargarlo aquí.\n(Al pinchar, se te descargará una archivo comprimido llamado Rproject_pjp.zip. Descomprime el archivo y así tendrás en tu ordenador el Rproject con los materiales (scripts, ejemplos, datos …) que utilizaremos en clase.)"
   },
   {
     "objectID": "materiales.html#logística",
@@ -40,6 +68,13 @@
     "title": "Materiales para el curso",
     "section": "Notas",
     "text": "Notas\n\n\nDe momento podemos pensar que un Rproject no es más que una carpeta con materiales. Ya os explicaremos un poco más en clase↩︎"
+  },
+  {
+    "objectID": "slides/zz_sobre-mi.html#sobre-mi",
+    "href": "slides/zz_sobre-mi.html#sobre-mi",
+    "title": "Introducción a R (SFPIE, 2024)",
+    "section": "Sobre mi",
+    "text": "Sobre mi\n\n\nProfesor en la UV: Econometría e Intro a la Ciencia de datos con R\nEntusiasta de R\n\n\n\nNo soy “bloguero”, más bien soy creador y liquidador de blogs:\n\n2015, R & flowers , con Jekyll\n2018, R & flowers V, con Hugo y blogdown\n2020, R & flowers (o casi), con radix\n2021, pedro.j.perez blog’s, con Distill\n2022, R & flowers, con Quarto\n\n\n\n\n\nSlides hechas con Quarto para las XII Jornadas de Usuarios de R"
   },
   {
     "objectID": "recursos.html",
@@ -68,41 +103,6 @@
     "title": "Estrategía(s) y recursos adiconales para aprender R",
     "section": "Notas",
     "text": "Notas\n\n\nYo aún sigo creyendo que aprenderé a tocar la guitarra sin practicar en casa↩︎\n¿Que qué proyectos? Puede ser simplemente tratar de replicar con R algo que ya hayas hecho con otro programa; aunque yo casí recomiendo replicar proyectos de otros. ¿Que donde puedes obtener código para replicar proyectos de otros? hay muchos sitios, pero yo te recomiendo 2: R-weekly y Kaggle ↩︎\nSon 5 minutillos↩︎\nAunque hay muchas otras estrategias, mira más abajo↩︎\nLo dice Xoel López en Reconstrucción (en versión confinada). Si saltas la publicidad de Youtube oirás una canción chulísima y cuyo mensaje viene al caso↩︎\nPor favor, si alguien siente que la chapa/consejo funcionó con ella/él, que me lo diga!!!↩︎\nSí, esto era antes de ChatGPT↩︎"
-  },
-  {
-    "objectID": "info.html",
-    "href": "info.html",
-    "title": "Introducción a R (SFPIE, 2024)",
-    "section": "",
-    "text": "Forma parte de la oferta del SFPIE de la Universitat de València. La ficha oficial del curso está aquí.\nEn el curso usaremos 3 programas. Principalmente usaremos R a través de RStudio. En una de las últimas sesiones del curso también usaremos Quarto.\nSe recomienda tener instaladas versiones recientes de los 3 programas. Tienes instrucciones de instalación más abajo\nEl aula del curso no tiene ordenadores, así que es necesario acudir al curso con tu propio ordenador. Además, es conveniente que traigas un ratón: piensa que buena parte de los errores que cometeremos se deberán a la precisión en copy-paste. Evitémoslo!!\nLos materiales que usaremos están en Materiales."
-  },
-  {
-    "objectID": "info.html#información-sobre-el-curso",
-    "href": "info.html#información-sobre-el-curso",
-    "title": "Introducción a R (SFPIE, 2024)",
-    "section": "",
-    "text": "Forma parte de la oferta del SFPIE de la Universitat de València. La ficha oficial del curso está aquí.\nEn el curso usaremos 3 programas. Principalmente usaremos R a través de RStudio. En una de las últimas sesiones del curso también usaremos Quarto.\nSe recomienda tener instaladas versiones recientes de los 3 programas. Tienes instrucciones de instalación más abajo\nEl aula del curso no tiene ordenadores, así que es necesario acudir al curso con tu propio ordenador. Además, es conveniente que traigas un ratón: piensa que buena parte de los errores que cometeremos se deberán a la precisión en copy-paste. Evitémoslo!!\nLos materiales que usaremos están en Materiales."
-  },
-  {
-    "objectID": "info.html#horario-y-aula",
-    "href": "info.html#horario-y-aula",
-    "title": "Introducción a R (SFPIE, 2024)",
-    "section": "Horario y aula",
-    "text": "Horario y aula\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDía\nHora\nLugar\nProfesor\n\n\n\n22 de abril (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n23 de abril (martes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n24 de abril (miércoles)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n29 de abril (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n30 de abril (martes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n6 de mayo (lunes)\n16:00 a 20:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n7 de mayo (martes)\n16:00 a 19:00\nAula 0.2 SFPIE (Campus Tarongers)\nPedro\n\n\n8 de mayo (miércoles)\n16:00 a 19:00\nAula 0.2 SFPIE (Campus Tarongers)\nVicente\n\n\n\n\nLas clases se desarrollarán en el Campus de Tarongers, concretamente en el aula 0.2 del SFPIE (Servicio de Formación Permanente e Innovación Educativa) de la Universitat de València.\nEl SFPIE está en el edificio “Centro de Formación y Calidad Manuel Sanchis Guarner” que está en la C/ Serpis, 29, 46022 València. Tienes un mapa de Google aquí, y aquí la web del centro."
-  },
-  {
-    "objectID": "info.html#programas-instalación",
-    "href": "info.html#programas-instalación",
-    "title": "Introducción a R (SFPIE, 2024)",
-    "section": "Programas (instalación)",
-    "text": "Programas (instalación)\n\n\n\n\n\n\nInstalación de R, RStudio y Quarto\n\n\n\n\n\n\nEn el curso usaremos 3 programas: R, RStudio y Quarto, así que tenemos que instalarlos\n\nHas de instalar los programas en este orden:\n\nR: https://cran.r-project.org/\nRStudio: https://posit.co/download/rstudio-desktop/\nQuarto: https://quarto.org/docs/download/\n\n\nPara ello, solamente has de descargar las versiones de los instaladores adecuadas para tu sistema operativo\n\n\n\n\n\n\n\n\n\n\n\nInstalación de paquetes\n\n\n\n\n\n\nEn el curso también usaremos algunos paquetes de R, así que hay que instalarlos\nLos paquetes se han de instalar una vez hayas instalado los 3 programas (R, RStudio y Quarto)\nLos paquetes no son necesarios para el primer día del curso, así que los instalaremos en clase durante la segunda sesión del curso\n\n\n\n\n\n\n\n\n\n\n¿Cómo instalar los paquetes?\n\n\n\n\n\n\nRecuerda que Los paquetes no son necesarios para el primer día del curso, así que los instalaremos en clase durante la segunda sesión\n\nAlgunos paquetes se han de compilar por lo que hay que tener las herramientas necesarias, así que:\n\nSi usas Windows instalaremos Rtools. Aquí puedes descargarte el instalador adecuado\nSi tienes un Mac, tendrás que instalar the Xcode Command Line Tools. Lo normal es que lo tengas ya instalado, si no fuese el caso, aquí te explican como hacerlo. Además, como nos cuentan aquí, si tienes un Mac, es conveniente instalar XQuartz, para ello sólo tienes que buscar el instalador en https://www.xquartz.org/\n\n\nFinalmente, para instalar los paquetes que usaremos durante el curso tendremos que ejecutar las siguientes instrucciones:\n\n\nCódigo para instalar los paquetes#- instalación de paquetes ---------------------------------\n\ninstall.packages(\"pak\")\n\nmys_pkgs &lt;- c(\"tidyverse\", \"curl\", \"eurostat\", \"here\", \"palmerpenguins\", \"quantmod\", \"rio\", \"gt\", \"DT\", \"gapminder\", \"markdown\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"usethis\", \"janitor\", \"ggthemes\", \"gganimate\", \"perezp44/pjpv.curso.R.2022\", \"sjPlot\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"sf\", \"rcartocolor\", \"rmapshaper\", \"gtExtras\", \"patchwork\", \"magick\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"kableExtra\", \"modelsummary\", \"rpivotTable\", \"widyr\", \"irlba\", \"tmap\")\npak::pkg_install(mys_pkgs)\n\nmys_pkgs &lt;- c(\"GGally\", \"ggtext\", \"Financial-Times/ftplottools\", \"maps\")\npak::pkg_install(mys_pkgs)  \n\nmys_pkgs &lt;- c(\"summarytools\", \"glin/reactable\", \"agstn/dataxray\", \"naniar\")\npak::pkg_install(mys_pkgs)  \n\nmys_pkgs &lt;- c(\"DataExplorer\", \"corrr\", \"inspectdf\", \"explore\", \"stargazer\", \"apaTables\")\npak::pkg_install(mys_pkgs)   \n\nmys_pkgs &lt;- c(\"easystats\", \"plotly\")\npak::pkg_install(mys_pkgs)\n\n#- finalmente, si te instalas todos los paquetes, se instalarán 284 pkg's aprox. (q ocupan 842 MB aprox.)\npkgs &lt;- pak::pkg_list()\n\n#- normalmente tendrás 2 librerías\n.libPaths()\n#- en la primera tienes los pkgs de \"R-base\": \"C:/Program Files/R/R-4.3.0/library\"   \n#- en la segunda tienes los paquetes q se instala un usuario:  \"C:/Users/Usuario/AppData/Local/R/win-library/4.3\" \n\n\n#- más cosas ---------------------------------------\n# usethis::edit_rstudio_prefs()\n# usethis::use_blank_slate() \n\n# quarto install tool tinytext\n# quarto install tinytex --update-path\n# quarto install tool chromium"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Bienvenidos al curso!!!",
-    "section": "",
-    "text": "Bienvenidos a la web del curso “Introducción a R” del SFPIE, Universitat de València, edición de 2024.\nEl curso tiene 30 horas distribuidas en 8 sesiones y 2 profesores: Vicente Coll y yo mismo, pedro.j.perez@uv.es. Cada uno impartirá 4 sesiones.\n\nEsta web tiene el propósito de facilitar el acceso a los materiales que usaremos durante las 4 sesiones a mi cargo:\n\nLos detalles sobre el curso (horario, aula, …) están en Info.\nLos materiales están en Materiales.\nPuedes encontrar recursos adicionales para aprender R en Recursos\n\n\nNos vemos pronto en el Aula 0.2 del SFPIE (Centro de Formación y Calidad Manuel Sanchis Guarner, Campus de Tarongers)"
   },
   {
     "objectID": "about.html",

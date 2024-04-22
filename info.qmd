@@ -135,6 +135,12 @@ pak::pkg_install(mys_pkgs)
 mys_pkgs <- c("easystats", "plotly")
 pak::pkg_install(mys_pkgs)
 
+mys_pkgs <- c("OECD", "rbioapi")
+pak::pkg_install(mys_pkgs)
+
+mys_pkgs <- c("openxlsx", "xlsx")
+pak::pkg_install(mys_pkgs) 
+
 #- finalmente, si te instalas todos los paquetes, se instalarán 284 pkg's aprox. (q ocupan 842 MB aprox.)
 pkgs <- pak::pkg_list()
 

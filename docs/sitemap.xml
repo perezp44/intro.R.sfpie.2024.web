@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/slides/zz_sobre-mi.html</loc>
-    <lastmod>2023-03-31T12:00:04.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/materiales.html</loc>
-    <lastmod>2024-04-11T09:08:43.960Z</lastmod>
-  </url>
-  <url>
-    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/recursos.html</loc>
-    <lastmod>2024-04-18T21:47:22.873Z</lastmod>
-  </url>
-  <url>
-    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/info.html</loc>
-    <lastmod>2024-04-16T18:38:51.497Z</lastmod>
-  </url>
-  <url>
     <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/index.html</loc>
     <lastmod>2024-04-07T19:21:10.510Z</lastmod>
   </url>
   <url>
+    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/info.html</loc>
+    <lastmod>2024-04-22T09:20:03.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/materiales.html</loc>
+    <lastmod>2024-04-22T10:01:28.101Z</lastmod>
+  </url>
+  <url>
+    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/slides/zz_sobre-mi.html</loc>
+    <lastmod>2023-03-31T12:00:04.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/recursos.html</loc>
+    <lastmod>2024-04-18T21:47:22.870Z</lastmod>
+  </url>
+  <url>
     <loc>https://perezp44.github.io/intro.R.sfpie.2024.web/about.html</loc>
-    <lastmod>2024-04-18T21:51:33.266Z</lastmod>
+    <lastmod>2024-04-18T21:51:33.260Z</lastmod>
   </url>
 </urlset>
