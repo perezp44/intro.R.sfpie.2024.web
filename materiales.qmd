@@ -53,7 +53,7 @@ Por último, está sección contiene, simplemente, un conjunto de enlaces que qu
 - [Etherpad](https://etherpad.wikimedia.org/p/curso_intro_DS_UV){target="_blank"}
 
 
-- [RStudio Cloud Project](https://posit.cloud/content/6039959){target="_blank"}
+- [RStudio Cloud Project](https://posit.cloud/content/7972663){target="_blank"}
 
 
 - [Programación y manejo de datos con R](https://perezp44.github.io/intro-ds-23-24-web/03-materiales.html){target="_blank"}
