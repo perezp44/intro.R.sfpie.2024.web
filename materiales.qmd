@@ -35,12 +35,15 @@ Durante "mis 4 sesiones" del curso utilizaremos, en clase, las siguientes **slid
 
 <br>
 
-## Rproject (a descargar)
+## Rproject's (a descargar)
 
 - El Rproject que usaremos en mis 4 sesiones, [`pedro.j.perez@uv.es`](mailto:pedro.j.perez@uv.es), puedes descargarlo [aquí](./materiales/Rproject_pjp.zip){target="_blank"}.
 
     (Al pinchar, se te descargará una archivo comprimido llamado `Rproject_pjp.zip`. Descomprime el archivo y así tendrás en tu ordenador el Rproject con los materiales (scripts, ejemplos, datos ...) que utilizaremos en clase.)
 
+<br>
+
+- Al final, en la última sesión también usaremos este otro Rproject, que puedes descargar [aquí](./materiales/quarto_eurovision.zip){target="_blank"}. Esta vez el proyecto se llama `quarto_eurovision`; ya sabes, es solo descargarlo y descomprimirlo para usarlo en clase. Nos servirá para practicar con Quarto.
 
 <br>
 
